@@ -24,8 +24,16 @@
 ## 🚀 快速开始
 
 ```bash
+# Gitee
 # 克隆仓库
-git clone https://gitee.com/gl-up/async-io.git
+git clone https://github.com/gl-up/async-io.git
 
 # 进入项目目录
 cd async-io
+
+# Github
+# 克隆仓库
+git clone https://github.com/gl-up/AsyncIO.git
+
+# 进入项目目录
+cd AsyncIO

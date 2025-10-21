@@ -11,9 +11,9 @@
 ```plaintext
 ├── Sec1.ipynb  迭代器
 
-├── Sec2.ipynb  用yield定义生成器
+├── Sec2.ipynb  用yield定义简单的生成器
 
-├── Sec3.ipynb 
+├── Sec3.ipynb  生成器技术内幕
 
 ├── Sec4.ipynb 
 

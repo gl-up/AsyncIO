@@ -17,7 +17,7 @@
 
 ├── Sec4.ipynb 协程（yield版）
 
-├── Sec5.ipynb 
+├── Sec5.ipynb yield的3种用法（生成器的3种模式）
 
 └── Sec6.ipynb 
 ```

@@ -15,7 +15,7 @@
 
 ├── Sec3.ipynb  生成器技术内幕
 
-├── Sec4.ipynb 
+├── Sec4.ipynb 协程（yield版）
 
 ├── Sec5.ipynb 
 
